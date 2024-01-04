@@ -692,9 +692,9 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "1f0bec3283626dcbd8ee2f54e238d096d8dea50e"
-      resolved-ref: "1f0bec3283626dcbd8ee2f54e238d096d8dea50e"
-      url: "https://github.com/KRTirtho/flutter_desktop_tools.git"
+      ref: "c2139aa2a1edc0ef7bd340b1e71a2809db956561"
+      resolved-ref: "c2139aa2a1edc0ef7bd340b1e71a2809db956561"
+      url: "https://github.com/guihkx/flutter_desktop_tools.git"
     source: git
     version: "0.0.1"
   flutter_displaymode:
@@ -2014,13 +2014,13 @@ packages:
     source: hosted
     version: "0.0.2"
   system_tray:
-    dependency: "direct overridden"
+    dependency: "direct main"
     description:
       name: system_tray
-      sha256: "087edb877f22f286d82d42f330fa640138c192e98aa9d20c2b83aa4e406bb432"
+      sha256: "40444e5de8ed907822a98694fd031b8accc3cb3c0baa547634ce76189cf3d9cf"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.2"
+    version: "2.0.3"
   term_glyph:
     dependency: transitive
     description:

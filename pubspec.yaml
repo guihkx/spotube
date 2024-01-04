@@ -41,8 +41,8 @@ dependencies:
   flutter_cache_manager: ^3.3.0
   flutter_desktop_tools:
     git:
-      url: https://github.com/KRTirtho/flutter_desktop_tools.git
-      ref: 1f0bec3283626dcbd8ee2f54e238d096d8dea50e
+      url: https://github.com/guihkx/flutter_desktop_tools.git
+      ref: c2139aa2a1edc0ef7bd340b1e71a2809db956561
   flutter_displaymode: ^0.6.0
   flutter_feather_icons: ^2.0.0+1
   flutter_hooks: ^0.20.0
@@ -90,6 +90,7 @@ dependencies:
   spotify: ^0.12.0
   stroke_text: ^0.0.2
   system_theme: ^2.1.0
+  system_tray: ^2.0.3
   titlebar_buttons: ^1.0.0
   url_launcher: ^6.1.7
   uuid: ^3.0.7
@@ -141,7 +142,6 @@ dev_dependencies:
 
 dependency_overrides:
   http: ^1.1.0
-  system_tray: 2.0.2
 
 flutter:
   generate: true
