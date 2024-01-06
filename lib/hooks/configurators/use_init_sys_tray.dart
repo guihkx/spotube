@@ -26,7 +26,7 @@ void useInitSysTray(WidgetRef ref) {
     final enabled = !playlist.isFetching;
     systemTray.value = await DesktopTools.createSystemTrayMenu(
       title: DesktopTools.platform.isLinux ? "" : "Spotube",
-      iconPath: "assets/spotube-logo.png",
+      iconPath: "com.github.KRTirtho.Spotube-tray",
       windowsIconPath: "assets/spotube-logo.ico",
       items: [
         MenuItemLabel(
